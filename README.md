@@ -11,7 +11,7 @@ NumPy: Numerical computations | Pandas: Data manipulation and analysis | Seaborn
 #### Data Source
 CSV file: (In the datasets)
 Columns:
-Customer_ID | Age | Gender | Item_Purchased | Category, Purchase_Amount, US_States, Size, Color, Season, ReviewRating, Subscription_Status, Shipping_Type, Discount_Applied, Promo_Code_Used, Previous_Purchases_Quantity, Payment_Method, Frequency_of_Purchases
+Customer_ID | Age | Gender | Item_Purchased | Category | Purchase_Amount | US_States | Size | Color | Season | ReviewRating | Subscription_Status | Shipping_Type | Discount_Applied | Promo_Code_Used |  Previous_Purchases_Quantity | Payment_Method | Frequency_of_Purchases
 
 ### Key Analysis Areas
 Customer Segmentation: Identify distinct customers based on demographics, purchase patterns, and preferences
