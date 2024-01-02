@@ -22,3 +22,5 @@ Purchase Patterns: Analyze purchase frequency, average spending, popular items, 
 Product Preferences: Explore top-selling items and category preferences
 Marketing Effectiveness: Evaluate the impact of promotions, discounts, and subscription programs on customer behavior.
 Customer Retention: Identify factors that influence customer loyalty and retention rates.
+
+### Visualisations
