@@ -4,7 +4,7 @@
 This project delves into understanding customer behavior through analysis of their purchase history, demographics, and preferences. It leverages SQL for data retrieval and cleaning, and Python's powerful libraries (Numpy, Pandas, Seaborn, Matplotlib) for data manipulation, analysis, and visualization.
 
 ### Technologies Used:
-#### SQL: Data retrieval and preparation
+#### SQL: Data Retrieval and Preparation
 #### Python:
 NumPy: Numerical computations, 
 Pandas: Data manipulation and analysis, 
