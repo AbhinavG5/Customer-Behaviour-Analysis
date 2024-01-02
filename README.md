@@ -24,4 +24,4 @@ Marketing Effectiveness: Evaluate the impact of promotions, discounts, and subsc
 Customer Retention: Identify factors that influence customer loyalty and retention rates.
 
 ### Visualisations
-![AgeDistributionofCustomers]([http://url/to/img.png](https://github.com/AbhinavG5/Customer-Behaviour-Analysis/blob/main/Age%20Distribution%20of%20Customers.png)https://github.com/AbhinavG5/Customer-Behaviour-Analysis/blob/main/Age%20Distribution%20of%20Customers.png)
+![Age Distribution of Customers](https://github.com/AbhinavG5/Customer-Behaviour-Analysis/blob/main/Age%20Distribution%20of%20Customers.png)
